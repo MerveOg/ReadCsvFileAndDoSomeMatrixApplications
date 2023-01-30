@@ -1,0 +1,318 @@
+SepalL: 5.100000 , SepalW: 3.500000 ,PetalL: 1.400000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.900000 , SepalW: 3.000000 ,PetalL: 1.400000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.700000 , SepalW: 3.200000 ,PetalL: 1.300000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.600000 , SepalW: 3.100000 ,PetalL: 1.500000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.000000 , SepalW: 3.600000 ,PetalL: 1.400000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.400000 , SepalW: 3.900000 ,PetalL: 1.700000 ,PetalW: 0.400000 ,Species: 1
+SepalL: 4.600000 , SepalW: 3.400000 ,PetalL: 1.400000 ,PetalW: 0.300000 ,Species: 1
+SepalL: 5.000000 , SepalW: 3.400000 ,PetalL: 1.500000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.400000 , SepalW: 2.900000 ,PetalL: 1.400000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.900000 , SepalW: 3.100000 ,PetalL: 1.500000 ,PetalW: 0.100000 ,Species: 1
+SepalL: 5.400000 , SepalW: 3.700000 ,PetalL: 1.500000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.800000 , SepalW: 3.400000 ,PetalL: 1.600000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.800000 , SepalW: 3.000000 ,PetalL: 1.400000 ,PetalW: 0.100000 ,Species: 1
+SepalL: 4.300000 , SepalW: 3.000000 ,PetalL: 1.100000 ,PetalW: 0.100000 ,Species: 1
+SepalL: 5.800000 , SepalW: 4.000000 ,PetalL: 1.200000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.700000 , SepalW: 4.400000 ,PetalL: 1.500000 ,PetalW: 0.400000 ,Species: 1
+SepalL: 5.400000 , SepalW: 3.900000 ,PetalL: 1.300000 ,PetalW: 0.400000 ,Species: 1
+SepalL: 5.100000 , SepalW: 3.500000 ,PetalL: 1.400000 ,PetalW: 0.300000 ,Species: 1
+SepalL: 5.700000 , SepalW: 3.800000 ,PetalL: 1.700000 ,PetalW: 0.300000 ,Species: 1
+SepalL: 5.100000 , SepalW: 3.800000 ,PetalL: 1.500000 ,PetalW: 0.300000 ,Species: 1
+SepalL: 5.400000 , SepalW: 3.400000 ,PetalL: 1.700000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.100000 , SepalW: 3.700000 ,PetalL: 1.500000 ,PetalW: 0.400000 ,Species: 1
+SepalL: 4.600000 , SepalW: 3.600000 ,PetalL: 1.000000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.100000 , SepalW: 3.300000 ,PetalL: 1.700000 ,PetalW: 0.500000 ,Species: 1
+SepalL: 4.800000 , SepalW: 3.400000 ,PetalL: 1.900000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.000000 , SepalW: 3.000000 ,PetalL: 1.600000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.000000 , SepalW: 3.400000 ,PetalL: 1.600000 ,PetalW: 0.400000 ,Species: 1
+SepalL: 5.200000 , SepalW: 3.500000 ,PetalL: 1.500000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.200000 , SepalW: 3.400000 ,PetalL: 1.400000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.700000 , SepalW: 3.200000 ,PetalL: 1.600000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.800000 , SepalW: 3.100000 ,PetalL: 1.600000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.400000 , SepalW: 3.400000 ,PetalL: 1.500000 ,PetalW: 0.400000 ,Species: 1
+SepalL: 5.200000 , SepalW: 4.100000 ,PetalL: 1.500000 ,PetalW: 0.100000 ,Species: 1
+SepalL: 5.500000 , SepalW: 4.200000 ,PetalL: 1.400000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.900000 , SepalW: 3.100000 ,PetalL: 1.500000 ,PetalW: 0.100000 ,Species: 1
+SepalL: 5.000000 , SepalW: 3.200000 ,PetalL: 1.200000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.500000 , SepalW: 3.500000 ,PetalL: 1.300000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.900000 , SepalW: 3.100000 ,PetalL: 1.500000 ,PetalW: 0.100000 ,Species: 1
+SepalL: 4.400000 , SepalW: 3.000000 ,PetalL: 1.300000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.100000 , SepalW: 3.400000 ,PetalL: 1.500000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.000000 , SepalW: 3.500000 ,PetalL: 1.300000 ,PetalW: 0.300000 ,Species: 1
+SepalL: 4.500000 , SepalW: 2.300000 ,PetalL: 1.300000 ,PetalW: 0.300000 ,Species: 1
+SepalL: 4.400000 , SepalW: 3.200000 ,PetalL: 1.300000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.000000 , SepalW: 3.500000 ,PetalL: 1.600000 ,PetalW: 0.600000 ,Species: 1
+SepalL: 5.100000 , SepalW: 3.800000 ,PetalL: 1.900000 ,PetalW: 0.400000 ,Species: 1
+SepalL: 4.800000 , SepalW: 3.000000 ,PetalL: 1.400000 ,PetalW: 0.300000 ,Species: 1
+SepalL: 5.100000 , SepalW: 3.800000 ,PetalL: 1.600000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 4.600000 , SepalW: 3.200000 ,PetalL: 1.400000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.300000 , SepalW: 3.700000 ,PetalL: 1.500000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 5.000000 , SepalW: 3.300000 ,PetalL: 1.400000 ,PetalW: 0.200000 ,Species: 1
+SepalL: 7.000000 , SepalW: 3.200000 ,PetalL: 4.700000 ,PetalW: 1.400000 ,Species: 2
+SepalL: 6.400000 , SepalW: 3.200000 ,PetalL: 4.500000 ,PetalW: 1.500000 ,Species: 2
+SepalL: 6.900000 , SepalW: 3.100000 ,PetalL: 4.900000 ,PetalW: 1.500000 ,Species: 2
+SepalL: 5.500000 , SepalW: 2.300000 ,PetalL: 4.000000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 6.500000 , SepalW: 2.800000 ,PetalL: 4.600000 ,PetalW: 1.500000 ,Species: 2
+SepalL: 5.700000 , SepalW: 2.800000 ,PetalL: 4.500000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 6.300000 , SepalW: 3.300000 ,PetalL: 4.700000 ,PetalW: 1.600000 ,Species: 2
+SepalL: 4.900000 , SepalW: 2.400000 ,PetalL: 3.300000 ,PetalW: 1.000000 ,Species: 2
+SepalL: 6.600000 , SepalW: 2.900000 ,PetalL: 4.600000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 5.200000 , SepalW: 2.700000 ,PetalL: 3.900000 ,PetalW: 1.400000 ,Species: 2
+SepalL: 5.000000 , SepalW: 2.000000 ,PetalL: 3.500000 ,PetalW: 1.000000 ,Species: 2
+SepalL: 5.900000 , SepalW: 3.000000 ,PetalL: 4.200000 ,PetalW: 1.500000 ,Species: 2
+SepalL: 6.000000 , SepalW: 2.200000 ,PetalL: 4.000000 ,PetalW: 1.000000 ,Species: 2
+SepalL: 6.100000 , SepalW: 2.900000 ,PetalL: 4.700000 ,PetalW: 1.400000 ,Species: 2
+SepalL: 5.600000 , SepalW: 2.900000 ,PetalL: 3.600000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 6.700000 , SepalW: 3.100000 ,PetalL: 4.400000 ,PetalW: 1.400000 ,Species: 2
+SepalL: 5.600000 , SepalW: 3.000000 ,PetalL: 4.500000 ,PetalW: 1.500000 ,Species: 2
+SepalL: 5.800000 , SepalW: 2.700000 ,PetalL: 4.100000 ,PetalW: 1.000000 ,Species: 2
+SepalL: 6.200000 , SepalW: 2.200000 ,PetalL: 4.500000 ,PetalW: 1.500000 ,Species: 2
+SepalL: 5.600000 , SepalW: 2.500000 ,PetalL: 3.900000 ,PetalW: 1.100000 ,Species: 2
+SepalL: 5.900000 , SepalW: 3.200000 ,PetalL: 4.800000 ,PetalW: 1.800000 ,Species: 2
+SepalL: 6.100000 , SepalW: 2.800000 ,PetalL: 4.000000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 6.300000 , SepalW: 2.500000 ,PetalL: 4.900000 ,PetalW: 1.500000 ,Species: 2
+SepalL: 6.100000 , SepalW: 2.800000 ,PetalL: 4.700000 ,PetalW: 1.200000 ,Species: 2
+SepalL: 6.400000 , SepalW: 2.900000 ,PetalL: 4.300000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 6.600000 , SepalW: 3.000000 ,PetalL: 4.400000 ,PetalW: 1.400000 ,Species: 2
+SepalL: 6.800000 , SepalW: 2.800000 ,PetalL: 4.800000 ,PetalW: 1.400000 ,Species: 2
+SepalL: 6.700000 , SepalW: 3.000000 ,PetalL: 5.000000 ,PetalW: 1.700000 ,Species: 2
+SepalL: 6.000000 , SepalW: 2.900000 ,PetalL: 4.500000 ,PetalW: 1.500000 ,Species: 2
+SepalL: 5.700000 , SepalW: 2.600000 ,PetalL: 3.500000 ,PetalW: 1.000000 ,Species: 2
+SepalL: 5.500000 , SepalW: 2.400000 ,PetalL: 3.800000 ,PetalW: 1.100000 ,Species: 2
+SepalL: 5.500000 , SepalW: 2.400000 ,PetalL: 3.700000 ,PetalW: 1.000000 ,Species: 2
+SepalL: 5.800000 , SepalW: 2.700000 ,PetalL: 3.900000 ,PetalW: 1.200000 ,Species: 2
+SepalL: 6.000000 , SepalW: 2.700000 ,PetalL: 5.100000 ,PetalW: 1.600000 ,Species: 2
+SepalL: 5.400000 , SepalW: 3.000000 ,PetalL: 4.500000 ,PetalW: 1.500000 ,Species: 2
+SepalL: 6.000000 , SepalW: 3.400000 ,PetalL: 4.500000 ,PetalW: 1.600000 ,Species: 2
+SepalL: 6.700000 , SepalW: 3.100000 ,PetalL: 4.700000 ,PetalW: 1.500000 ,Species: 2
+SepalL: 6.300000 , SepalW: 2.300000 ,PetalL: 4.400000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 5.600000 , SepalW: 3.000000 ,PetalL: 4.100000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 5.500000 , SepalW: 2.500000 ,PetalL: 4.000000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 5.500000 , SepalW: 2.600000 ,PetalL: 4.400000 ,PetalW: 1.200000 ,Species: 2
+SepalL: 6.100000 , SepalW: 3.000000 ,PetalL: 4.600000 ,PetalW: 1.400000 ,Species: 2
+SepalL: 5.800000 , SepalW: 2.600000 ,PetalL: 4.000000 ,PetalW: 1.200000 ,Species: 2
+SepalL: 5.000000 , SepalW: 2.300000 ,PetalL: 3.300000 ,PetalW: 1.000000 ,Species: 2
+SepalL: 5.600000 , SepalW: 2.700000 ,PetalL: 4.200000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 5.700000 , SepalW: 3.000000 ,PetalL: 4.200000 ,PetalW: 1.200000 ,Species: 2
+SepalL: 5.700000 , SepalW: 2.900000 ,PetalL: 4.200000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 6.200000 , SepalW: 2.900000 ,PetalL: 4.300000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 5.100000 , SepalW: 2.500000 ,PetalL: 3.000000 ,PetalW: 1.100000 ,Species: 2
+SepalL: 5.700000 , SepalW: 2.800000 ,PetalL: 4.100000 ,PetalW: 1.300000 ,Species: 2
+SepalL: 6.300000 , SepalW: 3.300000 ,PetalL: 6.000000 ,PetalW: 2.500000 ,Species: 3
+SepalL: 5.800000 , SepalW: 2.700000 ,PetalL: 5.100000 ,PetalW: 1.900000 ,Species: 3
+SepalL: 7.100000 , SepalW: 3.000000 ,PetalL: 5.900000 ,PetalW: 2.100000 ,Species: 3
+SepalL: 6.300000 , SepalW: 2.900000 ,PetalL: 5.600000 ,PetalW: 1.800000 ,Species: 3
+SepalL: 6.500000 , SepalW: 3.000000 ,PetalL: 5.800000 ,PetalW: 2.200000 ,Species: 3
+SepalL: 7.600000 , SepalW: 3.000000 ,PetalL: 6.600000 ,PetalW: 2.100000 ,Species: 3
+SepalL: 4.900000 , SepalW: 2.500000 ,PetalL: 4.500000 ,PetalW: 1.700000 ,Species: 3
+SepalL: 7.300000 , SepalW: 2.900000 ,PetalL: 6.300000 ,PetalW: 1.800000 ,Species: 3
+SepalL: 6.700000 , SepalW: 2.500000 ,PetalL: 5.800000 ,PetalW: 1.800000 ,Species: 3
+SepalL: 7.200000 , SepalW: 3.600000 ,PetalL: 6.100000 ,PetalW: 2.500000 ,Species: 3
+SepalL: 6.500000 , SepalW: 3.200000 ,PetalL: 5.100000 ,PetalW: 2.000000 ,Species: 3
+SepalL: 6.400000 , SepalW: 2.700000 ,PetalL: 5.300000 ,PetalW: 1.900000 ,Species: 3
+SepalL: 6.800000 , SepalW: 3.000000 ,PetalL: 5.500000 ,PetalW: 2.100000 ,Species: 3
+SepalL: 5.700000 , SepalW: 2.500000 ,PetalL: 5.000000 ,PetalW: 2.000000 ,Species: 3
+SepalL: 5.800000 , SepalW: 2.800000 ,PetalL: 5.100000 ,PetalW: 2.400000 ,Species: 3
+SepalL: 6.400000 , SepalW: 3.200000 ,PetalL: 5.300000 ,PetalW: 2.300000 ,Species: 3
+SepalL: 6.500000 , SepalW: 3.000000 ,PetalL: 5.500000 ,PetalW: 1.800000 ,Species: 3
+SepalL: 7.700000 , SepalW: 3.800000 ,PetalL: 6.700000 ,PetalW: 2.200000 ,Species: 3
+SepalL: 7.700000 , SepalW: 2.600000 ,PetalL: 6.900000 ,PetalW: 2.300000 ,Species: 3
+SepalL: 6.000000 , SepalW: 2.200000 ,PetalL: 5.000000 ,PetalW: 1.500000 ,Species: 3
+SepalL: 6.900000 , SepalW: 3.200000 ,PetalL: 5.700000 ,PetalW: 2.300000 ,Species: 3
+SepalL: 5.600000 , SepalW: 2.800000 ,PetalL: 4.900000 ,PetalW: 2.000000 ,Species: 3
+SepalL: 7.700000 , SepalW: 2.800000 ,PetalL: 6.700000 ,PetalW: 2.000000 ,Species: 3
+SepalL: 6.300000 , SepalW: 2.700000 ,PetalL: 4.900000 ,PetalW: 1.800000 ,Species: 3
+SepalL: 6.700000 , SepalW: 3.300000 ,PetalL: 5.700000 ,PetalW: 2.100000 ,Species: 3
+SepalL: 7.200000 , SepalW: 3.200000 ,PetalL: 6.000000 ,PetalW: 1.800000 ,Species: 3
+SepalL: 6.200000 , SepalW: 2.800000 ,PetalL: 4.800000 ,PetalW: 1.800000 ,Species: 3
+SepalL: 6.100000 , SepalW: 3.000000 ,PetalL: 4.900000 ,PetalW: 1.800000 ,Species: 3
+SepalL: 6.400000 , SepalW: 2.800000 ,PetalL: 5.600000 ,PetalW: 2.100000 ,Species: 3
+SepalL: 7.200000 , SepalW: 3.000000 ,PetalL: 5.800000 ,PetalW: 1.600000 ,Species: 3
+SepalL: 7.400000 , SepalW: 2.800000 ,PetalL: 6.100000 ,PetalW: 1.900000 ,Species: 3
+SepalL: 7.900000 , SepalW: 3.800000 ,PetalL: 6.400000 ,PetalW: 2.000000 ,Species: 3
+SepalL: 6.400000 , SepalW: 2.800000 ,PetalL: 5.600000 ,PetalW: 2.200000 ,Species: 3
+SepalL: 6.300000 , SepalW: 2.800000 ,PetalL: 5.100000 ,PetalW: 1.500000 ,Species: 3
+SepalL: 6.100000 , SepalW: 2.600000 ,PetalL: 5.600000 ,PetalW: 1.400000 ,Species: 3
+SepalL: 7.700000 , SepalW: 3.000000 ,PetalL: 6.100000 ,PetalW: 2.300000 ,Species: 3
+SepalL: 6.300000 , SepalW: 3.400000 ,PetalL: 5.600000 ,PetalW: 2.400000 ,Species: 3
+SepalL: 6.400000 , SepalW: 3.100000 ,PetalL: 5.500000 ,PetalW: 1.800000 ,Species: 3
+SepalL: 6.000000 , SepalW: 3.000000 ,PetalL: 4.800000 ,PetalW: 1.800000 ,Species: 3
+SepalL: 6.900000 , SepalW: 3.100000 ,PetalL: 5.400000 ,PetalW: 2.100000 ,Species: 3
+SepalL: 6.700000 , SepalW: 3.100000 ,PetalL: 5.600000 ,PetalW: 2.400000 ,Species: 3
+SepalL: 6.900000 , SepalW: 3.100000 ,PetalL: 5.100000 ,PetalW: 2.300000 ,Species: 3
+SepalL: 5.800000 , SepalW: 2.700000 ,PetalL: 5.100000 ,PetalW: 1.900000 ,Species: 3
+SepalL: 6.800000 , SepalW: 3.200000 ,PetalL: 5.900000 ,PetalW: 2.300000 ,Species: 3
+SepalL: 6.700000 , SepalW: 3.300000 ,PetalL: 5.700000 ,PetalW: 2.500000 ,Species: 3
+SepalL: 6.700000 , SepalW: 3.000000 ,PetalL: 5.200000 ,PetalW: 2.300000 ,Species: 3
+SepalL: 6.300000 , SepalW: 2.500000 ,PetalL: 5.000000 ,PetalW: 1.900000 ,Species: 3
+SepalL: 6.500000 , SepalW: 3.000000 ,PetalL: 5.200000 ,PetalW: 2.000000 ,Species: 3
+SepalL: 6.200000 , SepalW: 3.400000 ,PetalL: 5.400000 ,PetalW: 2.300000 ,Species: 3
+SepalL: 5.900000 , SepalW: 3.000000 ,PetalL: 5.100000 ,PetalW: 1.800000 ,Species: 3
+
+Irıs data matrix:
+
+5.10 3.50 1.40 0.20 
+4.90 3.00 1.40 0.20 
+4.70 3.20 1.30 0.20 
+4.60 3.10 1.50 0.20 
+5.00 3.60 1.40 0.20 
+5.40 3.90 1.70 0.40 
+4.60 3.40 1.40 0.30 
+5.00 3.40 1.50 0.20 
+4.40 2.90 1.40 0.20 
+4.90 3.10 1.50 0.10 
+5.40 3.70 1.50 0.20 
+4.80 3.40 1.60 0.20 
+4.80 3.00 1.40 0.10 
+4.30 3.00 1.10 0.10 
+5.80 4.00 1.20 0.20 
+5.70 4.40 1.50 0.40 
+5.40 3.90 1.30 0.40 
+5.10 3.50 1.40 0.30 
+5.70 3.80 1.70 0.30 
+5.10 3.80 1.50 0.30 
+5.40 3.40 1.70 0.20 
+5.10 3.70 1.50 0.40 
+4.60 3.60 1.00 0.20 
+5.10 3.30 1.70 0.50 
+4.80 3.40 1.90 0.20 
+5.00 3.00 1.60 0.20 
+5.00 3.40 1.60 0.40 
+5.20 3.50 1.50 0.20 
+5.20 3.40 1.40 0.20 
+4.70 3.20 1.60 0.20 
+4.80 3.10 1.60 0.20 
+5.40 3.40 1.50 0.40 
+5.20 4.10 1.50 0.10 
+5.50 4.20 1.40 0.20 
+4.90 3.10 1.50 0.10 
+5.00 3.20 1.20 0.20 
+5.50 3.50 1.30 0.20 
+4.90 3.10 1.50 0.10 
+4.40 3.00 1.30 0.20 
+5.10 3.40 1.50 0.20 
+5.00 3.50 1.30 0.30 
+4.50 2.30 1.30 0.30 
+4.40 3.20 1.30 0.20 
+5.00 3.50 1.60 0.60 
+5.10 3.80 1.90 0.40 
+4.80 3.00 1.40 0.30 
+5.10 3.80 1.60 0.20 
+4.60 3.20 1.40 0.20 
+5.30 3.70 1.50 0.20 
+5.00 3.30 1.40 0.20 
+7.00 3.20 4.70 1.40 
+6.40 3.20 4.50 1.50 
+6.90 3.10 4.90 1.50 
+5.50 2.30 4.00 1.30 
+6.50 2.80 4.60 1.50 
+5.70 2.80 4.50 1.30 
+6.30 3.30 4.70 1.60 
+4.90 2.40 3.30 1.00 
+6.60 2.90 4.60 1.30 
+5.20 2.70 3.90 1.40 
+5.00 2.00 3.50 1.00 
+5.90 3.00 4.20 1.50 
+6.00 2.20 4.00 1.00 
+6.10 2.90 4.70 1.40 
+5.60 2.90 3.60 1.30 
+6.70 3.10 4.40 1.40 
+5.60 3.00 4.50 1.50 
+5.80 2.70 4.10 1.00 
+6.20 2.20 4.50 1.50 
+5.60 2.50 3.90 1.10 
+5.90 3.20 4.80 1.80 
+6.10 2.80 4.00 1.30 
+6.30 2.50 4.90 1.50 
+6.10 2.80 4.70 1.20 
+6.40 2.90 4.30 1.30 
+6.60 3.00 4.40 1.40 
+6.80 2.80 4.80 1.40 
+6.70 3.00 5.00 1.70 
+6.00 2.90 4.50 1.50 
+5.70 2.60 3.50 1.00 
+5.50 2.40 3.80 1.10 
+5.50 2.40 3.70 1.00 
+5.80 2.70 3.90 1.20 
+6.00 2.70 5.10 1.60 
+5.40 3.00 4.50 1.50 
+6.00 3.40 4.50 1.60 
+6.70 3.10 4.70 1.50 
+6.30 2.30 4.40 1.30 
+5.60 3.00 4.10 1.30 
+5.50 2.50 4.00 1.30 
+5.50 2.60 4.40 1.20 
+6.10 3.00 4.60 1.40 
+5.80 2.60 4.00 1.20 
+5.00 2.30 3.30 1.00 
+5.60 2.70 4.20 1.30 
+5.70 3.00 4.20 1.20 
+5.70 2.90 4.20 1.30 
+6.20 2.90 4.30 1.30 
+5.10 2.50 3.00 1.10 
+5.70 2.80 4.10 1.30 
+6.30 3.30 6.00 2.50 
+5.80 2.70 5.10 1.90 
+7.10 3.00 5.90 2.10 
+6.30 2.90 5.60 1.80 
+6.50 3.00 5.80 2.20 
+7.60 3.00 6.60 2.10 
+4.90 2.50 4.50 1.70 
+7.30 2.90 6.30 1.80 
+6.70 2.50 5.80 1.80 
+7.20 3.60 6.10 2.50 
+6.50 3.20 5.10 2.00 
+6.40 2.70 5.30 1.90 
+6.80 3.00 5.50 2.10 
+5.70 2.50 5.00 2.00 
+5.80 2.80 5.10 2.40 
+6.40 3.20 5.30 2.30 
+6.50 3.00 5.50 1.80 
+7.70 3.80 6.70 2.20 
+7.70 2.60 6.90 2.30 
+6.00 2.20 5.00 1.50 
+6.90 3.20 5.70 2.30 
+5.60 2.80 4.90 2.00 
+7.70 2.80 6.70 2.00 
+6.30 2.70 4.90 1.80 
+6.70 3.30 5.70 2.10 
+7.20 3.20 6.00 1.80 
+6.20 2.80 4.80 1.80 
+6.10 3.00 4.90 1.80 
+6.40 2.80 5.60 2.10 
+7.20 3.00 5.80 1.60 
+7.40 2.80 6.10 1.90 
+7.90 3.80 6.40 2.00 
+6.40 2.80 5.60 2.20 
+6.30 2.80 5.10 1.50 
+6.10 2.60 5.60 1.40 
+7.70 3.00 6.10 2.30 
+6.30 3.40 5.60 2.40 
+6.40 3.10 5.50 1.80 
+6.00 3.00 4.80 1.80 
+6.90 3.10 5.40 2.10 
+6.70 3.10 5.60 2.40 
+6.90 3.10 5.10 2.30 
+5.80 2.70 5.10 1.90 
+6.80 3.20 5.90 2.30 
+6.70 3.30 5.70 2.50 
+6.70 3.00 5.20 2.30 
+6.30 2.50 5.00 1.90 
+6.50 3.00 5.20 2.00 
+6.20 3.40 5.40 2.30 
+5.90 3.00 5.10 1.80 
+
+Mean of Sepal Lengths: 5.843335 - Variance of Sepal Lengths: 0.681122
+Mean of Sepal Widths: 3.054000 - Variance of Sepal Widths: 0.186751
+Mean of Petal Lengths: 3.758667 - Variance of Petal Lenghts: 3.092424
+Mean of Petal Widths: 1.198667 - Variance of Petal Widths: 0.578532
+
+Correlation of  Sepal Lengths and Sepal Widths: -0.109369
+Correlation of  Petal Lengths and Petal Widths: 0.962757
+Correlation of  Sepal Lengths and Petal Length: 0.871755
+
+Covariance Matrix of Given Data: 
+0.68 -0.04 1.27 0.51 
+-0.04 0.19 -0.32 -0.12 
+1.27 -0.32 3.09 1.29 
+0.51 -0.12 1.29 0.58 
